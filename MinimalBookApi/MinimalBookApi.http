@@ -1,0 +1,6 @@
+@MinimalBookApi_HostAddress = http://localhost:5152
+
+GET {{MinimalBookApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
